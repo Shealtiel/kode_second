@@ -5,7 +5,7 @@ From https://www.python.org/
 ### Create virtual enviroment
 ```
 $ cd /path/to/kode_second
-$ python -m venv ./environment
+$ python -m venv ./kodenv
 $ ./kodenv/Scripts/activate
 ```
 ### Install requirements
